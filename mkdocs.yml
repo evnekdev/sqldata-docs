@@ -1,0 +1,18 @@
+# mkdocs.yml
+site_name : SQL database for EPMA data in metallurgy
+site_url: https://evnekdev.github.io/sqldata-docs/
+
+
+extra_css:
+  - stylesheets/extra.css
+  
+theme:
+  name: material
+  
+nav:
+  - Home :
+    - Overview : index.md
+    - Theoretical basis: theory.md
+  
+  
+  
